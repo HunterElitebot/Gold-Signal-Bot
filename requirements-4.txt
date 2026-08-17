@@ -1,0 +1,2 @@
+# GoldSignal bot yalnızca standart kütüphane kullanıyor (urllib, json, http.server),
+# harici bağımlılık gerekmiyor. Bu dosya Railway'in Python ortamı algılaması için var.
